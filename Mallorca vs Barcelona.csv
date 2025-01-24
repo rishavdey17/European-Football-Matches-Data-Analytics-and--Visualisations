@@ -1,0 +1,27 @@
+Number,Team,Minute,Result,xG,X,Y,x,y,Player,Assister
+0,Mallorca,23,Missed,0.036,92.4,62.7,,,Antonio Sanchez,Johan Mojica
+1,Mallorca,33,Blocked,0.058,84.5,56.4,,,Samu Costa,
+2,Mallorca,33,Blocked,0.027,83.6,71.7,,,Sergi Darder,
+3,Mallorca,42,Goal,0.74,94.5,55.3,,,Vedat Muriqi,Pablo Maffeo
+4,Mallorca,70,Blocked,0.04,92.09,44,,,Samu Costa,
+5,Mallorca,71,Missed,0.018,77.09,27.2,,,Dani Rodriguez,Samu Costa
+6,Barcelona,11,Goal,0.38,,,87,50.09,Ferran Torres,
+7,Barcelona,18,Saved,0.31,,,89,55.5,Ferran Torres,Alex Balde
+8,Barcelona,20,Missed,0.37,,,85.4,47.9,Lamine Yamal,Raphinha
+9,Barcelona,36,Missed,0.11,,,98.3,37.5,Ferran Torres,Raphinha
+10,Barcelona,40,Blocked,0.03,,,75.7,41.7,Dani Olmo,Ferran Torres
+11,Barcelona,46,Saved,0.55,,,87.8,47,Raphinha,
+12,Barcelona,46,Missed,0.04,,,80.09,40.4,Lamine Yamal,Inigo Martinez
+13,Barcelona,47,Missed,0.11,,,91.5,37,Lamine Yamal,Raphinha
+14,Barcelona,48,Missed,0.08,,,86.69,62.09,Ferran Torres,Alex Balde
+15,Barcelona,52,Saved,0.14,,,80.3,46.29,Raphinha,
+16,Barcelona,55,Goal,0.75,,,88.5,50,Raphinha,
+17,Barcelona,59,Missed,0.018,,,87,52.08,Dani Olmo,Pedri
+18,Barcelona,59,Blocked,0.09,,,86.19,61,Ferran Torres,Lamine Yamal
+19,Barcelona,73,Goal,0.46,,,92.9,47.59,Raphinha,Lamine Yamal
+20,Barcelona,76,Blocked,0.11,,,88.9,60.59,Lamine Yamal,Raphinha
+21,Barcelona,77,Blocked,0.02,,,72.9,46.59,Lamine Yamal,
+22,Barcelona,78,Goal,0.52,,,89.8,45.79,Frenkie de Jong,
+23,Barcelona,81,Missed,0.01,,,67.3,51.4,Pau Victor,
+24,Barcelona,83,Goal,0.94,,,96.8,49.2,Pau Victor,Frenkie de Jong
+25,Barcelona,86,Saved,0.33,,,87.69,47,Lamine Yamal,Gavi
